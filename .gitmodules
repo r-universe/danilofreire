@@ -5,6 +5,3 @@
 [submodule "pinochet"]
 	path = pinochet
 	url = https://github.com/cran/pinochet
-[submodule "prisonbrief"]
-	path = prisonbrief
-	url = https://github.com/danilofreire/prisonbrief
